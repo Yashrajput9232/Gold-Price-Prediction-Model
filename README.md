@@ -12,10 +12,6 @@ This repository contains the code and resources for a Gold Price prediction mode
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Results](#results)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Background
 
