@@ -1,4 +1,3 @@
-![Image](https://yourimageshare.com/ib/gNSbEFR08G)
 
 # Gold Price Prediction with Random Forest Algorithm
 
@@ -30,5 +29,4 @@ The Random Forest Algorithm, a powerful ensemble learning technique, was employe
 
 The Gold Price prediction model demonstrated exceptional accuracy, achieving a remarkable success rate of 98.92%. This achievement underscores the effectiveness of the Random Forest Algorithm and the importance of utilizing a diverse set of economic indicators for accurate predictions.
 
-![Model Performance]()
 
