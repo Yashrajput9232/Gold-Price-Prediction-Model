@@ -31,10 +31,3 @@ The Gold Price prediction model demonstrated exceptional accuracy, achieving a r
 
 ![Model Performance](images/model_performance.png)
 
-
-
-```bash
-pip install -r requirements.txt
-python preprocess_data.py
-python train_model.py
-python make_predictions.py
