@@ -1,4 +1,4 @@
-![image]([https://akm-img-a-in.tosshub.com/aajtak/images/story/202308/gold_price_2-sixteen_nine.jpg?size=948:533](https://ibb.co/C7yt3rq))
+![image](https://ibb.co/C7yt3rq)
 # Gold Price Prediction with Random Forest Algorithm
 
 
