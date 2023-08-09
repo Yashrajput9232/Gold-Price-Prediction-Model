@@ -31,13 +31,7 @@ The Gold Price prediction model demonstrated exceptional accuracy, achieving a r
 
 ![Model Performance](images/model_performance.png)
 
-## Usage
 
-To utilize the Gold Price prediction model:
-
-1. Clone this repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Run the provided scripts for data preprocessing, model training, and prediction.
 
 ```bash
 pip install -r requirements.txt
