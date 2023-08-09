@@ -1,6 +1,6 @@
+![image](https://akm-img-a-in.tosshub.com/aajtak/images/story/202308/gold_price_2-sixteen_nine.jpg?size=948:533)
 # Gold Price Prediction with Random Forest Algorithm
 
-![Gold Price Prediction]([images/gold_price_prediction.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdollarrupee.in%2Fgold-in-rupees-forecast-for-2015-2016-and-2017&psig=AOvVaw06M1uL5_mWj-WDTNwPdaDF&ust=1691676040848000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOD-4r3ez4ADFQAAAAAdAAAAABAR))
 
 ## Overview
 
@@ -29,5 +29,5 @@ The Random Forest Algorithm, a powerful ensemble learning technique, was employe
 
 The Gold Price prediction model demonstrated exceptional accuracy, achieving a remarkable success rate of 98.92%. This achievement underscores the effectiveness of the Random Forest Algorithm and the importance of utilizing a diverse set of economic indicators for accurate predictions.
 
-![Model Performance]([images/model_performance.png](https://github.com/Yashrajput9232/Gold-Price-Prediction-Model/blob/main/result.png)https://github.com/Yashrajput9232/Gold-Price-Prediction-Model/blob/main/result.png)
+![Model Performance]()
 
