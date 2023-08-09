@@ -1,4 +1,5 @@
-<a href="https://ibb.co/C7yt3rq"><img src="https://i.ibb.co/C7yt3rq/Turquoise-Simple-Modern-Linkedin-Banner.png" alt="Turquoise-Simple-Modern-Linkedin-Banner" ></a>
+![Image](https://yourimageshare.com/ib/gNSbEFR08G)
+
 # Gold Price Prediction with Random Forest Algorithm
 
 
